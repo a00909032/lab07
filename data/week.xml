@@ -7,7 +7,7 @@ Pablo Ramos
 Week perspective
 -->
 
-<!DOCTYPE term4 SYSTEM 'timetable.dtd'>
+<!DOCTYPE term4 SYSTEM 'week.dtd'>
 
 <term4>
     <timetable day="Monday">
