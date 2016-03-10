@@ -7,8 +7,7 @@ Pablo Ramos
 Period perspective
 -->
 
-<!DOCTYPE term4 SYSTEM 'period.dtd'>
-<term4>
+<!DOCTYPE timetable SYSTEM 'period.dtd'>
     <timetable>
         <period start="1030">
             <course type="lab">
@@ -31,4 +30,3 @@ Period perspective
             </course>                               
         </period>
     </timetable>
-</term4>
